@@ -1,0 +1,7 @@
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\bin\Debug\CircularLinkedList.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\bin\Debug\CircularLinkedList.exe
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\bin\Debug\CircularLinkedList.pdb
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\obj\Debug\CircularLinkedList.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\obj\Debug\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\obj\Debug\CircularLinkedList.exe
+C:\Users\aisha_ppxjc2l\source\repos\CircularLinkedList\obj\Debug\CircularLinkedList.pdb
